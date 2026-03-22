@@ -1,6 +1,7 @@
 streamlit
-pandas
 requests
+pandas
 plotly
-vaderSentiment
 yfinance
+vaderSentiment
+supabase>=2.0.0
